@@ -13,5 +13,5 @@ def has_seven(nums: list) -> bool:
     has_seven([7, 1, 7, 1, 7]) => True
     has_seven([7, 1, 7, 1, 1, 7]) => False
     """
-    return False
+    return True
     pass
